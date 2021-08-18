@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.AssemblyInfo.cs
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.exe
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.deps.json
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.runtimeconfig.json
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.dll
+C:\Users\philipst\source\repos\BomberMan\BomberMan\bin\Debug\netcoreapp3.1\BomberMan.pdb
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.dll
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.pdb
+C:\Users\philipst\source\repos\BomberMan\BomberMan\obj\Debug\netcoreapp3.1\BomberMan.genruntimeconfig.cache

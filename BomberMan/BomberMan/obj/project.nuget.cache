@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8X9OFnHUbN6xGoWK9/C+mTZcsRr0hrIo9/5w+dG7b+JeafhU7nEW5zDUK6FmjFgOln7eXnqUrlfxly4oytBg6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\philipst\\source\\repos\\BomberMan\\BomberMan\\BomberMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\philipst\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\philipst\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
