@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\netcoreapp3.1\The-Bomberman-Game.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.genruntimeconfig.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\netcoreapp3.1\The-Bomberman-Game.csproj.AssemblyReference.cache
