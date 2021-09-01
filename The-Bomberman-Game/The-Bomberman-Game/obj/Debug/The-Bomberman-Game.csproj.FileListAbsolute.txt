@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\The-Bomberman-Game.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\The-Bomberman-Game.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\bin\Debug\The-Bomberman-Game.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\The-Bomberman-Game.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\The-Bomberman-Game.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\The-Bomberman-Game.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Bomberman-Game\The-Bomberman-Game\The-Bomberman-Game\obj\Debug\The-Bomberman-Game.pdb
